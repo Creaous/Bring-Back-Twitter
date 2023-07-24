@@ -2,7 +2,7 @@
   "name": "bring-back-twitter",
   "displayName": "Bring Back Twitter",
   "version": "1.0.0",
-  "description": "An extension to replace the new Twitter (X) logo with the old blue bird.",
+  "description": "An extension that changes the new Twitter (X) logo back to the classic blue bird.",
   "license": "MIT",
   "repository": {
     "type": "git",
