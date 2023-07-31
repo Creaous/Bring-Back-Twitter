@@ -9,6 +9,7 @@ const manifest: ManifestTypeV3 = {
   name: pkg.displayName,
   version: pkg.version,
   description: pkg.description,
+  //permissions: ["storage"],
   icons: {
     "128": "public/icon-128.png",
   },
